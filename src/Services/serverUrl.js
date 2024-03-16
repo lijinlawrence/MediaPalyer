@@ -1,2 +1,2 @@
 
-export const serverUrl= "https://jsonservervideoplayer.onrender.com"
+export const serverUrl= "https://json-server-media.onrender.com"
